@@ -1,0 +1,13 @@
+a:2:{s:4:"data";s:550:"<li>
+    <a href="http://localhost/shopecoffe/category/bakery">Выпечка</a>
+    </li><li>
+    <a href="http://localhost/shopecoffe/category/dessert">Десерты</a>
+    </li><li>
+    <a href="http://localhost/shopecoffe/category/pies">Пироги</a>
+    </li><li>
+    <a href="http://localhost/shopecoffe/category/tort">Хлеб</a>
+    </li><li>
+    <a href="http://localhost/shopecoffe/category/sweets">Сладости</a>
+    </li><li>
+    <a href="http://localhost/shopecoffe/category/kul">Кулинария</a>
+    </li>";s:8:"end_time";i:1685602065;}
